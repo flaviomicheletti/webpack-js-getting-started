@@ -9,6 +9,12 @@ https://webpack.js.org/guides/getting-started/
 
     npm i
 
+## Build
+
+    npm run build
+
 ## Executando
 
     node node_modules/http-server/bin/http-server
+
+Abrir em http://localhost:8080/
