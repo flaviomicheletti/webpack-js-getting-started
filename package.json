@@ -13,7 +13,8 @@
   "devDependencies": {
     "http-server": "^0.12.1",
     "webpack": "^4.41.6",
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^3.3.11",
+    "minimist": ">=1.2.2"
   },
   "dependencies": {
     "lodash": "^4.17.15"
